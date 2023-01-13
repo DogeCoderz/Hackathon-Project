@@ -1,7 +1,7 @@
 
 # Hackathon project
 
-Project For Treasue Hacks Hackathon
+Project For Treasue Hacks Hackathon (this is the hackafon offical ver)
 
 
 ## Authors
